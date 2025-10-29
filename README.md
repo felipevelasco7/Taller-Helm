@@ -18,7 +18,7 @@ Felipe Velasco
  ```bash 
 helm install --debug --dry-run workshop <ruta de la carpeta creada en el paso anterior>
 ```
-![Prueba](/helm-charts/cyberchef/foto3.png)
+![Prueba](foto3.png)
 
 3. Y desplegamos
 ```bash 

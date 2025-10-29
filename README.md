@@ -35,6 +35,9 @@ kubectl get svc,po,deploy
 kubectl get svc,po,deploy
 ```
 
-![Plataforma desplegada](/helm-charts/cyberchef/foto1.png)
-![Plataforma desplegada](/helm-charts/cyberchef/foto2.png)
+![Plataforma desplegada](foto1.png)
+
+![Plataforma desplegada](foto2.png)
+
+
 
